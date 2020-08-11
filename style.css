@@ -15,8 +15,6 @@ button{
 }
 .top{
     padding: 50px 100px;
-
-    /* padding: 19px; */
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -229,9 +227,10 @@ border-radius: 4px;
 .icon-section{
     margin-top: 30px;
     display: flex;
-    width: 122px;
+    width: 167px;
     align-items: center;
     justify-content: space-between;
+    font-size: 30px;
 }
 .phone img, .email img{
     margin-right: 20px;
